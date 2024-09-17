@@ -1,5 +1,5 @@
 # pablo-dsc
-A program to read/write dsc files
+A program to read/write dsc files.
 Dsc is a file format used in all project diva games to store notes/3d events data
 
 # How to use
